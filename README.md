@@ -1,7 +1,7 @@
 # Create your own Pizza
 This simple Pizza application allows you to create your own pizza! You can add toppings from the options provided.
 
-![pizza app preview] (https://github.com/gabrielacepeda/pizza-app/blob/master/pizzaphoto.png)
+![instagram photo stream app preview](https://github.com/lpercivalDEV/instagram-api/blob/master/insta-api-preview.png)
 
 
 ## How It's Made:
