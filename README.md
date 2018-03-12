@@ -17,4 +17,4 @@ I am still working out some kinks in this app. I'm trying to find a way to align
 
 ## Lessons Learned:
 
-Relying on JavaScript to do CSS ws new to me, but also allowed this app to work more efficiently. Now I can apply this knowledge to future applications.
+Relying on JavaScript to do CSS was new to me, but also allowed this app to work more efficiently. Now I can apply this knowledge to future applications.
